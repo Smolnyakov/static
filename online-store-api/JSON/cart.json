@@ -1,18 +1,18 @@
 {
-  "amount": 46600,
+  "amount": 150,
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
-      "quantity": 1
+      "id":7,
+      "name":"Mister Slave T-SHIRT",
+      "price":"80.00",
+      "img":"https://raw.githubusercontent.com/Smolnyakov/static/master/online-store-api/imgs/Html-css-js%20online%20shop/Product8.jpg"
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 1
+       "id":8,
+       "name":"Towelie T-SHIRT",
+       "price":"70.00",
+       "img":"https://raw.githubusercontent.com/Smolnyakov/static/master/online-store-api/imgs/Html-css-js%20online%20shop/Product9.jpg"
     }
   ]
 }
